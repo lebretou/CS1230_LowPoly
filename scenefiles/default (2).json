@@ -1,0 +1,4219 @@
+{
+  
+  "name": "default",
+  "globalData": {
+    "ambientCoeff": 1,
+    "diffuseCoeff": 1,
+    "specularCoeff": 1,
+    "transparentCoeff": 0
+  },
+  "cameraData": {
+    "position": [
+      0,
+      7,
+      15
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "heightAngle": 45,
+    "look": [
+      0,
+      -0.431,
+      -1
+    ]
+  },
+  "groups": [
+    {
+      
+      "name": "tree9_4",
+      "translate": [
+        2.19,
+        1.86,
+        0.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.4,
+        0.45
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.7,
+            0.2,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.2,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree9_3",
+      "translate": [
+        2.19,
+        1.62,
+        0.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.52,
+        0.45,
+        0.52
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.7,
+            0.2,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.2,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree9_2",
+      "translate": [
+        2.19,
+        1.34,
+        0.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.5,
+        0.6
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.7,
+            0.2,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.2,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree9_1",
+      "translate": [
+        2.19,
+        0.95,
+        0.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.4,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.3,
+            0.2,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.18,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree8_7",
+      "translate": [
+        -1.45,
+        1.24,
+        -2.14
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.11,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.6,
+            0.2,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.1,
+            0.1
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree8_6",
+      "translate": [
+        -1.57,
+        1.15,
+        -2.14
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.49,
+        0.21,
+        0.35
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.6,
+            0.2,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.1,
+            0.1
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree8_5",
+      "translate": [
+        -1.88,
+        1.05,
+        -2.09
+      ],
+      "rotate": [
+        0,
+        0,
+        1,
+        -68
+      ],
+      "scale": [
+        0.1,
+        0.5,
+        0.09
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree8_4",
+      "translate": [
+        -2.11,
+        2.14,
+        -2.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.51,
+        0.41,
+        0.53
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.6,
+            0.2,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.1,
+            0.1
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree8_3",
+      "translate": [
+        -2.11,
+        1.85,
+        -2.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.75,
+        0.58,
+        0.75
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.6,
+            0.05,
+            0.05
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.1,
+            0.1
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree8_2",
+      "translate": [
+        -2.11,
+        1.54,
+        -2.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.58,
+        0.8
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.6,
+            0.05,
+            0.05
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.1,
+            0.1
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree8_1",
+      "translate": [
+        -2.11,
+        1.06,
+        -2.08
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.84,
+        0.18
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.18,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockdeco_4",
+      "translate": [
+        -0.55,
+        0.95,
+        -1.89
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -38
+      ],
+      "scale": [
+        0.27,
+        0.29,
+        0.42
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.4,
+            0.4,
+            0.4
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockdeco_3",
+      "translate": [
+        -0.71,
+        0.94,
+        -2.16
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -17
+      ],
+      "scale": [
+        0.51,
+        0.25,
+        0.36
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.4,
+            0.4,
+            0.4
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_11",
+      "translate": [
+        1.21,
+        1.02,
+        1.34
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.02,
+        0.4,
+        0.02
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.6,
+            0.6,
+            0.6
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_10",
+      "translate": [
+        1.2,
+        1.03,
+        2.14
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.02,
+        0.4,
+        0.02
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.6,
+            0.6,
+            0.6
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_20",
+      "translate": [
+        1.25,
+        0.97,
+        -0.53
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        88
+      ],
+      "scale": [
+        0.52,
+        0.41,
+        0.63
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockdeco_2",
+      "translate": [
+        -2.14,
+        0.92,
+        0.1
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        35
+      ],
+      "scale": [
+        0.36,
+        0.15,
+        0.21
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.41,
+            0.4,
+            0.4
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockdeco_1",
+      "translate": [
+        -2.19,
+        0.91,
+        -0.11
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.41,
+        0.25,
+        0.45
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.4,
+            0.4,
+            0.4
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "fence_5",
+      "translate": [
+        -0.43,
+        1.14,
+        -0.37
+      ],
+      "rotate": [
+        0,
+        1,
+        0.25,
+        -34
+      ],
+      "scale": [
+        0.78,
+        0.03,
+        0.03
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.3,
+            0.2,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "fence_4",
+      "translate": [
+        0.33,
+        1.12,
+        -0.3
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        24
+      ],
+      "scale": [
+        0.78,
+        0.03,
+        0.03
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.3,
+            0.2,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.3,
+            0.2,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "fence_3",
+      "translate": [
+        -0.57,
+        1,
+        -0.51
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -44
+      ],
+      "scale": [
+        0.07,
+        0.5,
+        0.07
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.3,
+            0.2,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.3,
+            0.2,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "fence_2",
+      "translate": [
+        0.05,
+        1,
+        -0.11
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -17
+      ],
+      "scale": [
+        0.07,
+        0.5,
+        0.07
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.3,
+            0.2,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "fence_1",
+      "translate": [
+        0.71,
+        0.98,
+        -0.41
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        27
+      ],
+      "scale": [
+        0.07,
+        0.5,
+        0.07
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.3,
+            0.2,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_6",
+      "translate": [
+        1.62,
+        1.07,
+        -0.52
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.91,
+        0.56,
+        0.41
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.8,
+            0.81,
+            0.81
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "pebble_3",
+      "translate": [
+        -0.58,
+        0.86,
+        1.19
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -35
+      ],
+      "scale": [
+        0.31,
+        0.07,
+        0.65
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "pebble_2",
+      "translate": [
+        -0.27,
+        0.89,
+        1.35
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -22
+      ],
+      "scale": [
+        0.24,
+        0.19,
+        0.5
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.51,
+            0.51,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "pebble_1",
+      "translate": [
+        0.13,
+        0.88,
+        1.56
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        4
+      ],
+      "scale": [
+        0.34,
+        0.11,
+        0.63
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "sign_4",
+      "translate": [
+        -1.93,
+        1.33,
+        1.8
+      ],
+      "rotate": [
+        0,
+        0,
+        1,
+        45
+      ],
+      "scale": [
+        0.09,
+        0.09,
+        0.04
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree6_1",
+      "translate": [
+        -0.15,
+        1.09,
+        -2.13
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.66,
+        0.22
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.18,
+            0.08,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "sign_3",
+      "translate": [
+        -2.15,
+        1.51,
+        1.79
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        126
+      ],
+      "scale": [
+        0.04,
+        0.13,
+        0.34
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.51,
+            0.51,
+            0.51
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "sign_2",
+      "translate": [
+        -2.12,
+        1.33,
+        1.8
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        90
+      ],
+      "scale": [
+        0.04,
+        0.13,
+        0.38
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "sign_1",
+      "translate": [
+        -2.19,
+        1.13,
+        1.75
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.07,
+        1,
+        0.07
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree7_3",
+      "translate": [
+        0.65,
+        1.68,
+        -1.9
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.65,
+        0.54,
+        0.65
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.35,
+            0.7,
+            0.35
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree7_2",
+      "translate": [
+        0.65,
+        1.38,
+        -1.9
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.7,
+        0.51,
+        0.7
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.35,
+            0.7,
+            0.35
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree7_1",
+      "translate": [
+        0.65,
+        1,
+        -1.9
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.35,
+        0.25
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.17,
+            0.08,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.17,
+            0.08,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree6_4",
+      "translate": [
+        -0.26,
+        1.08,
+        -2.12
+      ],
+      "rotate": [
+        0,
+        0,
+        1,
+        44
+      ],
+      "scale": [
+        0.1,
+        0.4,
+        0.1
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree6_3",
+      "translate": [
+        0.1,
+        1.55,
+        -2.1
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.62,
+        0.69,
+        0.76
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree6_2",
+      "translate": [
+        -0.15,
+        1.57,
+        -2.13
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.85,
+        0.9,
+        0.89
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_9",
+      "translate": [
+        0.15,
+        0.95,
+        -1.36
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -20
+      ],
+      "scale": [
+        0.64,
+        0.04,
+        0.04
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_8",
+      "translate": [
+        0.42,
+        0.94,
+        -1.01
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -17
+      ],
+      "scale": [
+        0.84,
+        0.04,
+        0.04
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_7",
+      "translate": [
+        1.32,
+        0.93,
+        -1
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        18
+      ],
+      "scale": [
+        0.62,
+        0.04,
+        0.04
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.9,
+            0.91,
+            0.91
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_6",
+      "translate": [
+        1.25,
+        0.94,
+        -1.24
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        14
+      ],
+      "scale": [
+        0.62,
+        0.04,
+        0.04
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_5",
+      "translate": [
+        -0.1,
+        0.91,
+        -1.35
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        75
+      ],
+      "scale": [
+        0.4,
+        0.05,
+        0.14
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.6,
+            0.4,
+            0.25
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.35,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_4",
+      "translate": [
+        0.23,
+        0.91,
+        -1.19
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        58
+      ],
+      "scale": [
+        0.4,
+        0.05,
+        0.14
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.6,
+            0.4,
+            0.25
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.35,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_3",
+      "translate": [
+        0.62,
+        0.91,
+        -1.03
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        80
+      ],
+      "scale": [
+        0.4,
+        0.05,
+        0.14
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.6,
+            0.4,
+            0.25
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.35,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rail_2",
+      "translate": [
+        1.07,
+        0.91,
+        -1.07
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -76
+      ],
+      "scale": [
+        0.4,
+        0.05,
+        0.14
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.6,
+            0.4,
+            0.25
+          ],
+          "specular": [
+            1,
+            1,
+            1
+          ],
+          "ambient": [
+            0.5,
+            0.35,
+            0.2
+          ],
+          "shininess": 1}
+      ]
+    },
+    {
+      
+      "name": "rail_1",
+      "translate": [
+        1.46,
+        0.91,
+        -1.16
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -65
+      ],
+      "scale": [
+        0.4,
+        0.05,
+        0.14
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.6,
+            0.4,
+            0.25
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.35,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_6",
+      "translate": [
+        1.96,
+        1.05,
+        -0.58
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -20
+      ],
+      "scale": [
+        0.61,
+        0.72,
+        1
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_5",
+      "translate": [
+        1.59,
+        1.46,
+        -1.96
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_4",
+      "translate": [
+        1.83,
+        1.72,
+        -1.45
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        0.46,
+        1
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_3",
+      "translate": [
+        1.96,
+        1.08,
+        -1.93
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1.49,
+        1
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_2",
+      "translate": [
+        1.52,
+        1.05,
+        -1.95
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        1.01,
+        0.78,
+        0.58
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.81,
+            0.8,
+            0.8
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "rockmt_1",
+      "translate": [
+        2.1,
+        1.05,
+        -1.38
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        -11
+      ],
+      "scale": [
+        0.68,
+        1.31,
+        1.08
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.8,
+            0.8,
+            0.8
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.7,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_8",
+      "translate": [
+        0.46,
+        0.98,
+        0.83
+      ],
+      "rotate": [
+        1,
+        0,
+        -10,
+        90
+      ],
+      "scale": [
+        0.16,
+        0.42,
+        0.16
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.7,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.6,
+            0.4,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_7",
+      "translate": [
+        0.46,
+        0.98,
+        0.83
+      ],
+      "rotate": [
+        1,
+        0,
+        -10,
+        90
+      ],
+      "scale": [
+        0.2,
+        0.4,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_6",
+      "translate": [
+        0.67,
+        0.98,
+        0.49
+      ],
+      "rotate": [
+        1,
+        0,
+        -0.25,
+        90
+      ],
+      "scale": [
+        0.16,
+        0.42,
+        0.16
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.7,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.6,
+            0.4,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_5",
+      "translate": [
+        0.67,
+        0.98,
+        0.49
+      ],
+      "rotate": [
+        1,
+        0,
+        -0.25,
+        90
+      ],
+      "scale": [
+        0.2,
+        0.4,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.1,
+            0.05,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_4",
+      "translate": [
+        0.25,
+        0.98,
+        0.48
+      ],
+      "rotate": [
+        1,
+        0,
+        0.35,
+        90
+      ],
+      "scale": [
+        0.16,
+        0.42,
+        0.16
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.7,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.6,
+            0.4,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_3",
+      "translate": [
+        0.25,
+        0.98,
+        0.48
+      ],
+      "rotate": [
+        1,
+        0,
+        0.35,
+        90
+      ],
+      "scale": [
+        0.2,
+        0.4,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.1,
+            0.05,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree5_4",
+      "translate": [
+        2.22,
+        1.1,
+        1.33
+      ],
+      "rotate": [
+        1,
+        0,
+        0,
+        33
+      ],
+      "scale": [
+        0.1,
+        1,
+        0.1
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree5_3",
+      "translate": [
+        2.13,
+        1.62,
+        1.43
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.73,
+        0.62,
+        0.48
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.9,
+            0.6,
+            0.6
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            1,
+            0.7,
+            0.7
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree5_2",
+      "translate": [
+        2.25,
+        1.6,
+        1.19
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.92,
+        0.82,
+        0.84
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.9,
+            0.6,
+            0.6
+          ],
+          "specular": [
+            1,
+            1,
+            1
+          ],
+          "ambient": [
+            1,
+            0.7,
+            0.7
+          ],
+          "shininess": 1}
+      ]
+    },
+    {
+      
+      "name": "tree5_1",
+      "translate": [
+        2.25,
+        1.09,
+        1.19
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.56,
+        0.32
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree4_3",
+      "translate": [
+        -2.19,
+        1.74,
+        -0.37
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.95,
+        0.6,
+        0.66
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.31,
+            0.51,
+            0.31
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.4,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree4_2",
+      "translate": [
+        -2.18,
+        1.75,
+        -0.64
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        0.81,
+        1
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.31,
+            0.51,
+            0.31
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.4,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree4_1",
+      "translate": [
+        -2.18,
+        1.2,
+        -0.64
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.76,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.3,
+            0.2,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_2",
+      "translate": [
+        0.6,
+        0.97,
+        1.25
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.19,
+        0.23,
+        0.24
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tentdeco_1",
+      "translate": [
+        0.9,
+        1,
+        1.18
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        89
+      ],
+      "scale": [
+        0.25,
+        -0.14,
+        0.39
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.2,
+            0.2,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree3_1",
+      "translate": [
+        2.24,
+        0.76,
+        2.04
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.2,
+        1.39,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree3_4",
+      "translate": [
+        2.32,
+        1.67,
+        2.04
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.36,
+        0.41
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree3_3",
+      "translate": [
+        2.19,
+        1.56,
+        1.91
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.57,
+        0.35,
+        0.63
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree3_2",
+      "translate": [
+        2.24,
+        1.54,
+        2.04
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.63,
+        0.49,
+        0.64
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree2_3",
+      "translate": [
+        1.32,
+        1.57,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.65,
+        0.41,
+        0.65
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.3,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.4,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree2_2",
+      "translate": [
+        1.32,
+        1.33,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.73,
+        0.48,
+        0.73
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.3,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.4,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree2_1",
+      "translate": [
+        1.32,
+        0.97,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.24,
+        0.27,
+        0.24
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree1_4",
+      "translate": [
+        1.76,
+        1.66,
+        0.6
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.35,
+        0.6
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.3,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.16,
+            0.4,
+            0.16
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree1_3",
+      "translate": [
+        1.76,
+        1.46,
+        0.6
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.7,
+        0.4,
+        0.7
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.3,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.16,
+            0.4,
+            0.16
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree1_2",
+      "translate": [
+        1.76,
+        1.19,
+        0.6
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.84,
+        0.45,
+        0.84
+      ],
+      "primitives": [
+        {
+          "type": "cone",
+          "diffuse": [
+            0.3,
+            0.5,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.16,
+            0.4,
+            0.16
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tree1_1",
+      "translate": [
+        1.73,
+        0.83,
+        0.6
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.38,
+        0.3
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tent2",
+      "translate": [
+        1.08,
+        0.88,
+        1.79
+      ],
+      "rotate": [
+        0,
+        0,
+        1,
+        135
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "tent1",
+      "translate": [
+        1.2,
+        0.64,
+        1.74
+      ],
+      "rotate": [
+        0,
+        0,
+        1,
+        135
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            1,
+            1,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            1,
+            1,
+            0.2
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        1.27,
+        0.89,
+        1.67
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        1.71,
+        0.03,
+        1.47
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.6,
+            0.4,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.22,
+            0.15
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.39,
+        0.81,
+        2.13
+      ],
+      "rotate": [
+        1,
+        1,
+        0,
+        83
+      ],
+      "scale": [
+        0.15,
+        0.15,
+        0.15
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.45,
+        0.75,
+        2.13
+      ],
+      "rotate": [
+        1,
+        1,
+        1,
+        68
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.3,
+        0.74,
+        2.18
+      ],
+      "rotate": [
+        1,
+        1,
+        1,
+        107
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.42,
+        0.84,
+        2.61
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.05,
+        0.12,
+        0.14
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.61,
+        0.81,
+        2.64
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.02,
+        0.19,
+        0.09
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.63,
+        0.77,
+        -1.59
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.05,
+        0.27,
+        0.44
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.44,
+        1.05,
+        1.88
+      ],
+      "rotate": [
+        0,
+        0,
+        1,
+        24
+      ],
+      "scale": [
+        0.04,
+        0.09,
+        0.04
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.39,
+        0.92,
+        1.86
+      ],
+      "rotate": [
+        1,
+        0,
+        0,
+        97
+      ],
+      "scale": [
+        0.15,
+        0.52,
+        0.15
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.6,
+            0.4,
+            0.2
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.5,
+            0.3,
+            0.1
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.39,
+        0.92,
+        1.86
+      ],
+      "rotate": [
+        1,
+        0,
+        0,
+        97
+      ],
+      "scale": [
+        0.19,
+        0.5,
+        0.2
+      ],
+      "primitives": [
+        {
+          "type": "cylinder",
+          "diffuse": [
+            0.2,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.1,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.69,
+        0.83,
+        1.1
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.03,
+        0.15,
+        0.34
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.45,
+        0.86,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.04,
+        0.08,
+        0.68
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.5,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.9,
+            0.9,
+            0.9
+          ],
+          "shininess": 0.5}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.52,
+        0.37,
+        2.63
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.77,
+        1,
+        0.05
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.1,
+            0.2,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        -1.52,
+        0.83,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.77,
+        0.08,
+        5.23
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.1,
+            0.2,
+            0.3
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.8
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        0.675,
+        0.85,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        3.65,
+        0.08,
+        5
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "water1",
+      "translate": [
+        -2.195,
+        0.83,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.61,
+        0.08,
+        5
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "base_rock4",
+      "translate": [
+        -1.97,
+        0.25,
+        2.37
+      ],
+      "rotate": [
+        0,
+        1,
+        1,
+        68
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.07,
+            0.04,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.15,
+            0.08,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "base_rock3",
+      "translate": [
+        1.47,
+        0.28,
+        2.28
+      ],
+      "rotate": [
+        0,
+        1,
+        1,
+        57
+      ],
+      "scale": [
+        0.28,
+        0.28,
+        0.67
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.17,
+            0.1,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.35,
+            0.2,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "base_rock2",
+      "translate": [
+        -0.73,
+        0.4,
+        2.39
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.37,
+        0.35,
+        0.36
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.1,
+            0.05,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.65,
+            0.65,
+            0.65
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "base_rock1",
+      "translate": [
+        0.13,
+        0.17,
+        2.37
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        0.41,
+        0.34,
+        0.37
+      ],
+      "primitives": [
+        {
+          "type": "sphere",
+          "diffuse": [
+            0.1,
+            0.05,
+            0
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.12,
+            0.02,
+            0
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "translate": [
+        -2.46,
+        2.17,
+        5.27
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "lights": [
+        {
+          "type": "point",
+          "color": [
+            0.8,
+            0.6,
+            0.4
+          ],
+          "attenuationCoeff": [
+            1,
+            0.01,
+            0.01
+          ],
+          
+          "penumbra": 0,
+          "angle": 0,
+          "direction": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      
+      "translate": [
+        0,
+        2.72,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "lights": [
+        {
+          "type": "point",
+          "color": [
+            0.8,
+            0.6,
+            0.4
+          ],
+          "attenuationCoeff": [
+            1,
+            0.1,
+            0.1
+          ],
+          
+          "penumbra": 0,
+          "angle": 0,
+          "direction": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      
+      "name": "Base Grass",
+      "translate": [
+        0,
+        0.71,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        5,
+        0.2,
+        5
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.5,
+            0.7,
+            0.5
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.4,
+            0.6,
+            0.4
+          ],
+          "shininess": 0.1}
+      ]
+    },
+    {
+      
+      "name": "Base Dirt",
+      "translate": [
+        0,
+        0.25,
+        0
+      ],
+      "rotate": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "scale": [
+        5,
+        0.73,
+        5
+      ],
+      "primitives": [
+        {
+          "type": "cube",
+          "diffuse": [
+            0.2,
+            0.1,
+            0.05
+          ],
+          "specular": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "ambient": [
+            0.2,
+            0.05,
+            0
+          ],
+          "shininess": 0.3}
+      ]
+    }
+  ]
+}

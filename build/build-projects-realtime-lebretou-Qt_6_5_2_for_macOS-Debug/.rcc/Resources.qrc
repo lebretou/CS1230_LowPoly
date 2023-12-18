@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="resources/shaders/default.frag">/Users/leoxu/Brown/CS1230/projects-realtime-lebretou/resources/shaders/default.frag</file>
+    <file alias="resources/shaders/default.vert">/Users/leoxu/Brown/CS1230/projects-realtime-lebretou/resources/shaders/default.vert</file>
+    <file alias="resources/shaders/texture.frag">/Users/leoxu/Brown/CS1230/projects-realtime-lebretou/resources/shaders/texture.frag</file>
+    <file alias="resources/shaders/texture.vert">/Users/leoxu/Brown/CS1230/projects-realtime-lebretou/resources/shaders/texture.vert</file>
+  </qresource>
+</RCC>
+
